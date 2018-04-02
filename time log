@@ -1,0 +1,46 @@
+time log extension
+-------------------
+dec 25 2017 - christmas
+
+dec 25 2017 - 7 : 17 AM
+    I'm going to do exactly what this document is!!
+
+dec 25 2017 - 7 : 18 AM
+    project description : To create a time log, a simple text editor which when pressed a button ( or click or whatever ) pastes the current time and date stamp and moves to next line with a tab so as to type in whats happening at the current time.
+
+dec 25 2017 - 7 : 21AM
+    On a train travelling back to kottayam. cold with a sunny effect!!!
+
+dec 25 2017 - 7 : 22 AM
+    decided to move on to sublime text extensions dev , as writing a text editor is little bit hard. Let the research begin...
+
+dec 25 2017 7 : 37 AM
+    googled and found a js code to show the current date and time as "Monday, 25 December, 2017 - 07:37:40" neat... the only problem - its dynamic which means it keeps on updating like a clock. What i need is a "time stamp".
+
+dec 25 2017 7 : 53 AM
+    learning javascript date.
+
+dec 25 2017 2 : 53 PM
+    7 hours passed and i wrote 15 lines of code :-(, but i reached somewhere i learned how to prpoperly implement static time using javascript. and created a button that when clicked will display the time stamp. i will figure out the styling part later...
+
+dec 25 2017 2 : 56 PM
+    i just had the idea while writing the prev log that what i can write should be short. thinking of implementing the old twitter 140 char rule in my webapp
+    
+dec 25 2017 3 : 32 PM
+    added a comment box sort of feaure to the app, no php code and database linking yet, just HTML till nowsssss
+    
+dec 25 2017 3 : 48 PM
+    ok i finally found the comment box type which i needed, now i am getting somewhere.
+    
+dec 27 2017 9 : 32 AM
+    found out that the problem was really simple :-),just add the date function to the para div and it prints out date + ":" + text. simple as that.
+
+dec 27 2017 9 : 34 AM
+    now i need to stdy php and mysql to be able to connect it with database so that i can "store" my log comments. working on schema right now.
+  
+dec 27 2017 9 : 36 AM
+    the page strucure now works perfectly . i will figure out css stuff later. hoping i can complete it within the first week of 2018.
+jan 14 2018 7 : 05 PM
+    forget first week of jan, i completely forgot about this project, was really busy with academics...
+jan 14 2018 7 : 06 PM
+    i will work on this whenever i get some time. for now halted :-(
